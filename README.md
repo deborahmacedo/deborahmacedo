@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, eu sou Déborah 👋
 
 <!--
 **deborahmacedo/deborahmacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Olá, eu sou Déborah 👋
+
+
 Atualmente, sou graduanda em Tecnologia da Informação pela Universidade Federal do Rio Grande do Norte (UFRN) e atuo como Desenvolvedora FRont-End. Sou apaixonada por aplicações que facilitem a vida das pessoas.
 
 🚀 Sobre Mim
