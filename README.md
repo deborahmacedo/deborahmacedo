@@ -20,7 +20,7 @@ Atualmente, sou graduanda em Tecnologia da Informação pela Universidade Federa
 
 🚀 Sobre Mim
 
-🎓 Estudante de TI com foco em engenharia de software e estruturas de dados.
+🎓 Estudante de TI com foco em engenharia de software.
 
 💻 Fui tutora acadêmica e integrante ativa de grupos de tecnologia como o IEEE.
 
